@@ -1,0 +1,2 @@
+http://stxnext.duapp.com/mvcweb/index.php 前台
+http://stxnext.duapp.com/mvcweb/index.php?a=admin 后台
